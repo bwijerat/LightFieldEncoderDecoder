@@ -8,4 +8,4 @@ This project explored the possibility of building a deep CNN autoencoder for lig
 ![Image1](https://github.com/bwijerat/LightFieldEncoderDecoder/blob/main/Report/media/LF_collage.jpg)
 
 #### Sampling scheme for 4-branch network, sampled at 3x3 regions of the 9x9 array of sub-aperture view patches, each patch
-![Image2](https://github.com/bwijerat/LightFieldEncoderDecoder/blob/main/Report/media/LF_sampling_scheme.jpg)
+![Image2](https://github.com/bwijerat/LightFieldEncoderDecoder/blob/main/Report/media/LF_sampling_scheme1.jpg)
